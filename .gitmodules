@@ -1,0 +1,9 @@
+[submodule "libs/cpp-httplib"]
+	path = libs/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "libs/htmlparser"]
+	path = libs/htmlparser
+	url = https://github.com/rangerlee/htmlparser.git
+[submodule "libs/HTTPRequest"]
+	path = libs/HTTPRequest
+	url = https://github.com/elnormous/HTTPRequest.git
